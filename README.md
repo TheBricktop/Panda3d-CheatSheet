@@ -6,7 +6,10 @@ So here is quick and dirty list of topics that might clarify inner workings of p
 
 Its evergrowing and mostly written during frantic coding so the formatting might be lacking a bit.
 
-# Topics
+## The Cheat Sheet Itself
+
+### Topics
+
 1. Installation
 2. Other systems
 3. Using VSCode with microsoft python extension and Pylance 
@@ -18,5 +21,11 @@ Its evergrowing and mostly written during frantic coding so the formatting might
    4.    
 6. Display Regions
 7. AR VR XR
-8. 
+   1. Basics of StereoRendering
+   
+## External tools for panda3d
+
+## panda3d extensions
+
+
 
