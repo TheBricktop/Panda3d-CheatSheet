@@ -25,7 +25,22 @@ Its evergrowing and mostly written during frantic coding so the formatting might
    
 ## External tools for panda3d
 
-## panda3d extensions
+## panda3d extensions and usefull snippets
+### Camera Controllers
+- [ SimpleThirdPersonCamera by ArsThaumaturgis](https://github.com/ArsThaumaturgis/SimpleThirdPersonCamera)
+- [panda3d character controller by fireclawthefox](https://github.com/fireclawthefox/panda3d-character-controller)
+### Procedural Animation
+- [Ik System by Germanukol](https://github.com/Germanunkol/CCD-IK-Panda3D)
+### Procedural mesh creation
+### I/O
+- [Linux Gamepad without PyGame by rdb](https://gist.github.com/rdb/8864666)
+- [Windows Gamepad without PyGame by wezu](https://gist.github.com/wezu/9cd50bf57be046ec35603cb6a3499a60)
 
+### GUI
+- [3d Words by octaviotron](https://github.com/octaviotron/panda3D/tree/main/3dWords)
+- [GameSaver by ArsThaumaturgis](https://github.com/ArsThaumaturgis/GameSaver)
+- [TabbedFrame by ArsThaumaturgis](https://github.com/ArsThaumaturgis/TabbedFrame)
 
+## Other Resources
+- [Awesome Panda3D by Moguri](https://github.com/Moguri/awesome-panda3d)
 
