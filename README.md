@@ -25,6 +25,9 @@ Its evergrowing and mostly written during frantic coding so the formatting might
 - [3d Words by octaviotron](https://github.com/octaviotron/panda3D/tree/main/3dWords)
 - [GameSaver by ArsThaumaturgis](https://github.com/ArsThaumaturgis/GameSaver)
 - [TabbedFrame by ArsThaumaturgis](https://github.com/ArsThaumaturgis/TabbedFrame)
+- [PandaChromium by thetestgame](https://github.com/thetestgame/PandaChromium)
+- [cefpanda by Moguri](https://github.com/Moguri/cefpanda)
+- [original Chromium EF in panda3d by cztomczak](https://github.com/cztomczak/cefpython/wiki/Panda3D)
 
 ## Other Resources
 - [Awesome Panda3D by Moguri](https://github.com/Moguri/awesome-panda3d)
